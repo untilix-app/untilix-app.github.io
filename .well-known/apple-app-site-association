@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["YLCB99PN74.com.indieapps.daysuntil"],
+        "components": [
+          { "/": "/untilix/e", "comment": "Shared countdown page" },
+          { "/": "/untilix/e/*", "comment": "Shared countdown page" }
+        ]
+      }
+    ]
+  }
+}
